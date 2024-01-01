@@ -1,0 +1,33 @@
+.LOCATIONS{
+
+    color: whitesmoke;
+    padding: 10px;
+    margin: auto;
+    font-size: large;
+    
+  }
+  
+
+  
+  
+  
+  
+  #Home{
+    background-image: url(./Images/fries\ and\ chicken.jpg); /* The image used */
+    height: 700px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    
+  }
+  .Header{
+    background-color: gray;
+    text-align: center;
+    color: white;
+    height: 50px;
+    font-size: xx-large;
+  }
+    
+  
+  
+  
